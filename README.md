@@ -1,5 +1,4 @@
 <!-- Headings -->
-
 # Heading 1
 ## Heading 3
 ### Heading 4
@@ -17,44 +16,47 @@ _This text is Italics_
 __This text is Strong__
 
 <!-- Strong -->
-~~This text is strikethough~~
+~~Strikethough~~
 
 <!-- Horizontal Rule -->
 ---
 ___
 
 <!-- Block Quote -->
-> This is a Quote
+#### Block Quote
+> This is a quote
 
 <!-- Links-->
+#### Links
+[Link example](https://declanlongley.net)
 
-[This is the link text](https://declanlongley.net)
-
-<!-- Links With Title Hover-->
-[This is the link text](https://declanlongley.net "Declan Longley")
+[Link example with title hover](https://declanlongley.net "Declan Longley")
 
 <!-- UL -->
+#### Unordered Lists
 * Item one
 * Item two
 * Item three
   * nested item one
   * nested item two
 
+#### Ordered Lists
 <!-- OL -->
 1. Item 1
 1. Item 2
 1. Item 3
 
-
 <!-- inline code block -->
+#### Inline Code Block
 `<p> this a paragraph</p>`
 
 <!-- image -->
-
+#### Images
 ![Markdown Logo](https://markdown-here.com/img/logo-2015/austin.png)
 
 <!-- Github Markdown -->
 <!-- Code Blocks -->
+### GitHub Specific Syntax
 #### Code Snippets
 ##### Bash
 ```bash
@@ -76,10 +78,13 @@ ___
 ```
 
 <!-- Tables -->
+#### Tables
 | Name    | number |
 | ------- | ------ |
-| declon  | 123456 |
+| declon  | 12345  |
+| declon1 | 67890  |
 
 <!-- Task Lists -->
+#### Task Lists
 * [x] Task 1
 * [ ] Task 2
