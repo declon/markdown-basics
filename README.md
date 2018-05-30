@@ -28,9 +28,9 @@ ___
 
 <!-- Links-->
 #### Links
-[Link example](https://declanlongley.net)
+[Link example](https://github.com/declon/markdown-basics)
 
-[Link example with title hover](https://declanlongley.net "Declan Longley")
+[Link example with title hover](https://github.com/declon/markdown-basics "GitHub: declon")
 
 <!-- UL -->
 #### Unordered Lists
